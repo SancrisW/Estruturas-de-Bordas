@@ -1,0 +1,39 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+div{
+    background-image: url(../img/sol.jpg);
+    height: 400px;
+    width: 400px;
+
+    border-radius: 5px;
+    border-color: rgb(180, 65, 65);
+    border-style: solid;
+    border-width: 20px;
+    
+    box-shadow: inset 8px 8px 15px 6px;
+    background-size: cover;
+
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    margin:auto;
+    margin-top: 63px;
+    outline-color: rgb(169, 126, 17);
+    outline-width: 16px;
+    outline-style: ridge;
+}
+
+p{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Parisienne', cursive;
+    font-weight: bolder;
+    color: rgb(84, 28, 28);
+    padding-top: 250px;
+    text-shadow: 1px 1px white, -1px -1px #444;
+}
+
